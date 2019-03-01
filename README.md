@@ -1,5 +1,5 @@
 # 自学Machine learning的一些代码和笔记  
-## Day 1: 信用卡欺诈检测  
+## Demo 1: 信用卡欺诈检测  
 日期：2019/02/21  
 
 数据来源：[Kaggle Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud  )     
@@ -10,7 +10,7 @@
 
 **Key words:**  欺诈检测，朴素贝叶斯，降采样，过采样，Smote算法   
 
-## Day 2: 手动实现朴素贝叶斯分类器
+## Demo 2: 手动实现朴素贝叶斯分类器
 日期：2019/02/22  
 具体代码见NB.ipynb  
 实现了基础模型，后面会在其基础上进行扩展。
