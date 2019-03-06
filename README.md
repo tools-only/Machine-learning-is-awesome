@@ -19,3 +19,5 @@
 日期：2019/03/04  
 由于最近写本子经常看到生成模型相关的内容，所以打算花时间把这一块系统地学习一遍。  
 具体笔记见blog： [贝叶斯分类器](https://tools-only.github.io/2019/03/04/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8(Bayesian%20decision%20classifiers)/)
+
+## Note 2：bayes network
